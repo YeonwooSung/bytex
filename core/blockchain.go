@@ -6,6 +6,7 @@ import (
 
 	"github.com/YeonwooSung/bytex/crypto"
 	"github.com/YeonwooSung/bytex/types"
+
 	"github.com/go-kit/log"
 )
 

@@ -9,6 +9,7 @@ import (
 	"net"
 
 	"github.com/YeonwooSung/bytex/core"
+
 	"github.com/sirupsen/logrus"
 )
 
